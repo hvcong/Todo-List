@@ -1,5 +1,4 @@
-# Todo-List
-This is a mini project about ' Todo list' , it use: divide projects by Component, handle with my library like React + Redux
+
 # Todo-List
 This is a practice project while learn Javascript at F8. 
 - Focus: how to  divide projects by Component, learn work flow of React + Redux
